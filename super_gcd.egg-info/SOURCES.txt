@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+super_gcd/__init__.py
+super_gcd/__main__.py
+super_gcd/gcd.py
+super_gcd/gui.py
+super_gcd.egg-info/PKG-INFO
+super_gcd.egg-info/SOURCES.txt
+super_gcd.egg-info/dependency_links.txt
+super_gcd.egg-info/requires.txt
+super_gcd.egg-info/top_level.txt
