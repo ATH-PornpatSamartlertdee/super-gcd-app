@@ -9,6 +9,6 @@ setuptools.setup(
     # url='https://medium.com/@gmyrianthous',
     # keywords='sample, example, setuptools',
     extras_require={
-        'dev': ['pytest', 'pylink', 'black', 'isort', 'pyinstaller'],
+        'dev': ['pytest', 'pylint', 'black', 'isort', 'pyinstaller'],
     }
 )
